@@ -2,6 +2,4 @@
 
 ## Website
 
-Add some new lines
-
-### Adding a multiple file
+### Repository for git training

@@ -1,3 +1,10 @@
-body{
-	background-color: grey;
+.intro-header {
+	min-height: 897px;
+  height: 100%;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(../img/header.jpg) no-repeat center center;
+  background-size: cover;
 }
